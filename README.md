@@ -1,0 +1,3 @@
+# SAMPLE PROJECT SETUP FOR SCALABLE REACT NATIVE APPS
+
+You're invited to collaborate!
